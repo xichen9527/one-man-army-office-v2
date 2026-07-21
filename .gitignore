@@ -42,3 +42,8 @@ next-env.d.ts
 
 .env.local
 .env.production
+
+# status/report files
+_*.md
+_*.js
+_*.ps1
